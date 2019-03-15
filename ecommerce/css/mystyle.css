@@ -1,0 +1,50 @@
+.top_bar{
+	background: #D66D75;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E29587, #D66D75);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E29587, #D66D75); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ padding: 5px 0;
+}
+.social_icons{
+	margin-right: 5px;
+}
+.contact_info{
+	color: #fff;
+	font-size: 16px;
+}
+.my-menu{
+	margin-top: 20px;
+}
+.my-menu .navbar-default{
+	background: none;
+	border: none;
+}
+.my-menu .navbar-nav .active a,.my-menu .navbar-nav .active a:hover{background: #D66D75;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E29587, #D66D75);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E29587, #D66D75); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ color: #fff;}
+.my-menu .navbar-nav li a:hover{background: #D66D75;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E29587, #D66D75);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E29587, #D66D75); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ color: #fff;}
+
+.footer{
+	background: #333333;padding: 20px 0; margin-top: 40px;
+}
+.footer p{
+	color:#fff; margin-top: 10px; margin-bottom: 5px; text-align: justify;
+}
+.footer{
+	color: #fff;
+}
+.footer ul{
+	list-style: none;margin: 0;padding: 0;
+}
+.footer  ul li a {
+color: #fff; font-size: 15px;
+}
+.our-varity{
+	background: #D66D75;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E29587, #D66D75);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E29587, #D66D75); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
